@@ -7,6 +7,14 @@
 
     /*Propiedades elemento padre a él y sus hijos*/
     display: flex; /*bloque*/
+    /*display: inline-flex; !*inline*!*/ /* Una línea no respecta el tamaño*/
+
+    /* Flex Direction */
+    flex-direction: row;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse;
+
 }
 
 .flexbox-item {
