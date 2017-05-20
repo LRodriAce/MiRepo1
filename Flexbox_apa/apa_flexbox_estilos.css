@@ -1,0 +1,16 @@
+.flexbox-container {
+    max-height: 800px;
+    max-width: 960px;
+    padding: 1em;
+    /*border: 5px solid;*/
+    background-color: tomato;
+
+    /*Propiedades elemento padre a él y sus hijos*/
+    display: flex; /*bloque*/
+}
+
+.flexbox-item {
+    background-color: aliceblue;
+    border: 2px dotted;
+    margin: 5px;
+}
