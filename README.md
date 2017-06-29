@@ -1,2 +1,2 @@
 # MiRepo1
-Para practicar Git
+  Practices with Git. Just playing
